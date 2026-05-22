@@ -31,7 +31,7 @@ A small 2D delivery game built with Unity and C# while learning game development
 ## Credits
 This project was built while following the GameDev.tv Unity 2D course on Udemy.
 
-Some assets used in this project were provided by the course creators.
+Assets used in this project were provided by the course creators.
 
 ## Gameplay
 ![Gameplay GIF](Images/Gameplay.gif)
