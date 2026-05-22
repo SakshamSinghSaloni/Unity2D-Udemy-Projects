@@ -47,9 +47,9 @@ This project helped me practice:
 
 ## Screenshots
 
-![Gameplay] (Images/Gameplay.gif)
-![Powerup] (Images/Powerup.png)
-![CharacterSelection] (Images/CharacterSelect.png)
+![Gameplay](Images/Gameplay.gif)
+![Powerup](Images/Powerup.png)
+![Character Selection](Images/CharacterSelect.png)
 
 ## Repository Structure
 
